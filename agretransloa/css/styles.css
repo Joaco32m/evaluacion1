@@ -56,3 +56,120 @@ nav a:hover{
     width: 1.8rem;
     color: #053477;
 }
+
+.Nuestro-trabajo {
+    padding: 20px;
+    margin: 0;
+}
+
+
+.trabajo-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+    padding-left: 35rem;
+}
+
+.trabajo-item img {
+    padding-right:10px; 
+    width: 6rem;
+    height: auto;
+}
+
+.trabajo-item-texto h3 {
+    text-align: center;
+    font-size: 2.4rem;
+    color: #f26b1d;
+    margin: 0 0 8px 0;
+}
+
+.trabajo-item-texto p {
+    font-size: 1.8rem;
+    color: #053477;
+    margin: 0;
+}
+
+.Titulo-h2{
+    position: absolute;
+    width:5rem;
+    Color: #2A4B7A;
+    margin-left: 26rem;
+} 
+
+
+.contacto-info-personal{
+    display: flex;
+    background-color:  #2A4B7A;
+    justify-content: center;
+}
+
+.titulo-contactoh2{
+    font-size: 2.2rem;
+    color:  #F75F1C;
+}
+
+textarea{
+    height: 20rem;
+    width: 30rem;
+}
+
+legend{
+    font-size   :2.2rem;
+    Color: #F75F1C
+}
+
+label{
+    display: block;
+    width: 8rem;
+    color: #ffffff;
+    padding-bottom: 10px;
+}
+
+.info-personal{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.info-contacto li{
+    list-style:none;
+    color:white;
+}
+
+
+.info-contacto{
+    margin-right: 20px;
+}
+
+.button input[type="submit"] {
+    color: #ffffff;
+    background-color: #E35619;
+    font-size: 1.8rem;
+    padding: 1rem 3rem;
+    margin-top: 2rem;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+  }
+
+  select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    box-sizing: border-box;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    box-sizing: border-box;
+  }
+
+.datos-contactos li{
+    margin-bottom: 10px;
+}
